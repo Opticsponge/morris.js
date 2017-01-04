@@ -21,7 +21,7 @@ the email address above.
 
 - [jQuery](http://jquery.com/) (>= 1.7 recommended, but it'll probably work with
   older versions)
-- [Raphael.js](http://raphaeljs.com/) (>= 2.0)
+- [Raphael.js](http://dmitrybaranovskiy.github.io/raphael/) (>= 2.0)
 
 ## Usage
 
